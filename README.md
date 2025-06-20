@@ -26,6 +26,10 @@ A professional and interactive FAQ chatbot built using **Streamlit** and **sciki
 pip install -r requirements.txt
 streamlit run faq_chatbot.py
 
+## 🚀 Live Demo
+
+🤖 [Try the FAQ Chatbot App](https://84wozfmzxvuetmumsahc2s.streamlit.app/)
+
 
 ---
 

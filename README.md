@@ -29,8 +29,9 @@ streamlit run faq_chatbot.py
 
 ---
 
-👨‍💻 Developed by **Tushar Jha**  
-🎓 BTech CSE | AI Intern @ CodeAlpha  
-📬 [LinkedIn](https://linkedin.com/in/tushar4408)
+🧑‍💻 Developed by **Tushar Jha**  
+🎓 AI Intern @ [CodeAlpha](https://www.linkedin.com/company/codealpha-in/)  
+📍 BTech CSE | [LinkedIn](https://linkedin.com/in/tushar4408)
+
 
 

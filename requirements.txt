@@ -1,0 +1,5 @@
+# Requirements for FAQ Chatbot Project
+
+streamlit>=1.25.0
+pandas>=1.5.0
+scikit-learn>=1.2.0

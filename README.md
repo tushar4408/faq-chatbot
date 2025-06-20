@@ -26,3 +26,11 @@ A professional and interactive FAQ chatbot built using **Streamlit** and **sciki
 pip install -r requirements.txt
 streamlit run faq_chatbot.py
 
+
+---
+
+👨‍💻 Developed by **Tushar Jha**  
+🎓 BTech CSE | AI Intern @ CodeAlpha  
+📬 [LinkedIn](https://linkedin.com/in/tushar4408)
+
+
